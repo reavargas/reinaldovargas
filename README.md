@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**reavargas/reavargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Reinaldo Azevedo Vargas
 
-Here are some ideas to get you started:
+- Estou estudando na ALURA
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo o GitHUB para minhaorganização e compartilahmento dos projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+reavargas@gmail.com
+
+https://www.linkedin.com/in/reavargas/
+
+![](https://media.tenor.com/4A4UHbVtBIIAAAAM/globe-world.gif)

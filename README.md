@@ -4,7 +4,7 @@ Meu nome é Reinaldo Azevedo Vargas
 
 - Estou estudando na ALURA
 - Estou me desenvolvendo nas linguagens JavaScript e Python
-- Utilizo o GitHUB para minha organização e compartilahmento dos projetos desenvolvidos
+- Utilizo o GitHUB para minha organização e compartilhamento dos projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📫
 
